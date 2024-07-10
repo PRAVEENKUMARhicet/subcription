@@ -1,0 +1,43 @@
+
+.design{
+    border: 2px solid black;
+    padding: 0px 20px 30px;
+    width: fit-content;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+form{
+    background-color: rgba(0, 0, 0, .3);
+    padding:20px 30px;
+}
+
+.field{
+    display: block;
+    padding: 5px 10px;
+    width: 98%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.content{
+    background-color: white;
+    padding: 10px;
+    
+}
+
+button{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.select{
+    margin-top: 20px;
+}
